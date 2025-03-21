@@ -21,4 +21,4 @@ Add large digital timers in multiple areas of the arena so:
 ### 4. Broadcast Timer Sync  
 Ensure the on-screen clock used in TV broadcasts is pulled **directly from the official fight timer** with no delay or manual input. Use graphics that highlight the final seconds for added clarity.
 
-[Previous Page](README.md)|[Next Page](Benefits.md)
+[Previous Page](README.md) | [Next Page](Benefits.md)
