@@ -8,3 +8,5 @@
 ---
 
 #  As MMA continues to grow, improving core elements like timekeeping enhances the sport's clarity, fairness, and overall user experience. These enhancements modernize MMA in a way that benefits everyone—from fighter to fan.
+
+[Previous Page](Benefits.md) | [Back to First Page](README.md)
