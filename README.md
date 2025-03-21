@@ -10,3 +10,5 @@ In MMA, the round timer is crucial for fighters, coaches, referees, and fans. Ho
 
 - **TV and Arena Timer Mismatch**  
   Broadcasts may show a slightly delayed or desynced timer, leading to confusion for commentators and fans. Arena spectators also sometimes lack a clear view of how much time is left.
+
+[Next Page](solution.md)
