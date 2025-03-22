@@ -1,4 +1,4 @@
-## 🛠️ Proposed Solution
+## Proposed Solution
 
 ### 1. Cage-Embedded Digital Timer  
 Install small, unobtrusive LED timers into the top edges of the cage or near the neutral corners. These would:
