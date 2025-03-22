@@ -1,4 +1,4 @@
-## ✅ UX Benefits
+## UX Benefits
 
 - **Fighters** gain better situational awareness without distraction.  
 - **Corners** no longer need to rely on unreliable vocal cues.  
